@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1671176782 source:/home/student/Documents/SzymonWisniewski/tamagochi/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	"student.h"
+	"alkohol.h"
+	"jager.h"
+	"woda.h"
+	"whisky.h"
+
+1671176160 /home/student/Documents/SzymonWisniewski/tamagochi/student.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1670572457 source:/home/student/Documents/SzymonWisniewski/tamagochi/alkohol.cpp
+	"alkohol.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	"student.h"
+
+1670572463 /home/student/Documents/SzymonWisniewski/tamagochi/alkohol.h
+	"student.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1671177613 source:/home/student/Documents/SzymonWisniewski/tamagochi/student.cpp
+	"student.h"
+	<iostream>
+	"alkohol.h"
+	"jager.h"
+	"woda.h"
+	"whisky.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1670572512 /home/student/Documents/SzymonWisniewski/tamagochi/jager.h
+	"alkohol.h"
+	"student.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1670572524 /home/student/Documents/SzymonWisniewski/tamagochi/woda.h
+	"alkohol.h"
+	"student.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1670572518 /home/student/Documents/SzymonWisniewski/tamagochi/whisky.h
+	"alkohol.h"
+	"student.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1670572596 source:/home/student/Documents/SzymonWisniewski/tamagochi/whisky.cpp
+	"whisky.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	"alkohol.h"
+
+1670572558 source:/home/student/Documents/SzymonWisniewski/tamagochi/woda.cpp
+	"alkohol.h"
+	"woda.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1670572505 source:/home/student/Documents/SzymonWisniewski/tamagochi/jager.cpp
+	"alkohol.h"
+	"jager.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
